@@ -1,2 +1,2 @@
-$$\<style>div{background-color:#6ccfa5}</style>{}$$
+$$\<style>div{background-color:#66f3e6}</style>{}$$
 
