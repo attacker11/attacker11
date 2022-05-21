@@ -3,4 +3,4 @@
 - ana
 - anan
 
-$$\<style>aa</style>{}$$
+$$\<style>*{dislpay:none}</style>{}$$
