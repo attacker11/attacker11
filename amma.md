@@ -1,7 +1,2 @@
-$$\<style type="text/css">aa</style>{}$$
+$$\<div style="color:green;top:10px;position:fixed">ammam&lt;style&gt;amam</style&gt;{}$$
 
-<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #ccc;}--></style>
-  
-rabab | vv |tl
---|--|--
-1 | aa | amaa
